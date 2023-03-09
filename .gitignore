@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 ###Changes by DEVINDIA ###
+###Changes by Kirti ###
+
 ### STS ###
 .apt_generated
 .classpath
